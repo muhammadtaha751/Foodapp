@@ -1,0 +1,101 @@
+
+.navbar{
+  display: flex;
+    flex-wrap: nowrap;
+    justify-content: space-evenly;
+    align-items: cente
+}
+
+.mainSec{
+display: flex;
+justify-content: space-between;
+align-items: center;
+height: 100vh;
+ 
+  background-color: #f7f7f7;
+}
+.banner img{
+  width: 80%;
+ float: right;
+}
+.secImg{
+  background-image: url('https://images.deliveryhero.io/image/foodpanda/home-vendor-pk.jpg?width=1200&height=768');
+  width: 100%;
+  height: 60vh;
+
+}
+
+.mob img{
+  width: 70%;
+}
+
+.bg_two{
+  background-image: url('https://images.deliveryhero.io/image/foodpanda/home-corporate-pk.jpg?width=1200&height=768');
+width: 100%;
+height: 60vh;
+
+}
+
+.banner_two{
+  display: flex;
+    align-items: center;
+    justify-content: space-between;
+   background-color: #f7f7f7;
+   height: 280px;
+}
+
+.banner_two h1{
+  font-weight: 500;
+}
+.banner_two img{
+width: 30%;
+
+}
+
+.cards{
+  display: flex ;
+    flex-wrap: wrap ;
+    justify-content: space-around  ;
+    align-items: center  ;
+}
+
+.card{
+  width: 320px;
+}
+
+/* AD detail */
+
+.adBar{
+  display: flex;
+  padding: 5px 10px;
+}
+
+.adBar a{
+  padding: 5px 10px;
+}
+
+.review{
+  display: flex;
+}
+
+.button{
+  display: flex;
+  justify-content: space-between;
+}
+
+.AD{
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.landingCard{
+  width: 500px;
+  
+  margin-top: 50px !important;
+ 
+}
+.city{
+  display: flex;
+  flex-wrap: wrap;
+  
+}
